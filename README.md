@@ -1,5 +1,2 @@
-"# React_emojipedia" 
-"# React_emojipedia" 
-"# React_emojipedia" 
-"# React_emojipedia" 
-"# React_emojipedia" 
+DOWNLOAD node.js AND React.js 
+And Run the react app
